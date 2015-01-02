@@ -9,6 +9,3 @@ Nim is a mathematical game of strategy coded in C in which two players take turn
 ### Instructions project
 - The goal is to make a program which you can play against
 - The IA must be developped using Marienbad algorithm
-
-### Authors and Contributors
-Developed by Gregoire Borel (@gregoireborel)
